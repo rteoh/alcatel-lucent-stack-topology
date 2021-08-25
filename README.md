@@ -5,7 +5,7 @@ This Python script allows you to automate Alcatel Lucent commands for multiple s
 The script is designed for organizations who has to first SSH into a server before accessing any Alcatel Lucent switches. Feel free to modify this script based on your needs/commands. (*starting at line 45*)
 
 
-## Acceptable commands:
+## How to use:
 
 Run CLI command on 10.0.0.1:
 <code>python stack-topology.py 10.0.0.1</code>
