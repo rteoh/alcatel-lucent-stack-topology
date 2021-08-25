@@ -12,7 +12,7 @@ Run CLI command on 10.0.0.1:
 
 
 Run CLI command on 10.0.0.1 along with its output:
-<code>python stack-topology.py 10.0.0.1 -output /Downloads/cli.txt</code>
+<code>python stack-topology.py 10.0.0.1 -output</code>
 
 
 Run CLI command on a list of IP addresses from a .txt file:
@@ -20,7 +20,7 @@ Run CLI command on a list of IP addresses from a .txt file:
 
 
 Run CLI command on a list of IP addresses with its output:
-<code>python stack-topology.py ip_list.txt -output /Downloads/cli.txt</code>
+<code>python stack-topology.py ip_list.txt -output</code>
 
 *<b>.txt files must have one IP address per a line</b>*
 
