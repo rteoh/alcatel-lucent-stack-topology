@@ -1,1 +1,1 @@
-# Automate Alcatel Lucent Switch CLI Commands (Show Stack Topology)
+# Automate Alcatel Lucent Switch CLI Command Template
