@@ -294,7 +294,7 @@ except ValueError:
 
 	print('\n')
 	print('Error: Invalid IP Address')
-	print('Usage: python statskr.py <ip or .txt file> -output [Output file]')
+	print('Usage: python stack-topology.py <ip or .txt file> -output [Output file]')
 	exit()
 
 except SystemExit:
@@ -304,5 +304,5 @@ except SystemExit:
 except:
 
 	print('\n')
-	print('Usage: python statskr.py <ip or .txt file> -output [Output file]')
+	print('Usage: python stack-topology.py <ip or .txt file> -output [Output file]')
 	exit()
